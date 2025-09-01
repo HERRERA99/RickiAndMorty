@@ -1,6 +1,6 @@
 # Rick and Morty App
 
-![Banner](screenshots/banner.png)
+![Banner](Header.png)
 
 Aplicación móvil creada en **Android** con **Kotlin** para practicar el consumo de APIs públicas.  
 La app utiliza la [Rick and Morty API](https://rickandmortyapi.com/) para mostrar información de personajes de la serie.
@@ -30,9 +30,9 @@ La app utiliza la [Rick and Morty API](https://rickandmortyapi.com/) para mostra
 
 ## 📷 Capturas de pantalla
 
-| Lista de personajes | Detalle de personaje |
-|----------------------|-----------------------|
-| ![Home](screenshots/home.png) | ![Detalle](screenshots/detail.png) |
+| Lista de personajes |
+|----------------------|
+| ![Home](VideoFuncionamiento.gif) |
 
 _(Asegúrate de subir tus capturas y el banner a la carpeta `screenshots/` en el repositorio)_
 
