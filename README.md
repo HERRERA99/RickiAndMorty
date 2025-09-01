@@ -34,8 +34,6 @@ La app utiliza la [Rick and Morty API](https://rickandmortyapi.com/) para mostra
 |----------------------|
 | ![Home](VideoFuncionamiento.gif) |
 
-_(Asegúrate de subir tus capturas y el banner a la carpeta `screenshots/` en el repositorio)_
-
 ---
 
 ## 📦 Instalación
